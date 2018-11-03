@@ -1,0 +1,13 @@
+{
+  "plugins": ["react-hooks"],
+  "rules": {
+    "react-hooks/rules-of-hooks": "error"
+  },
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
